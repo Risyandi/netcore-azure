@@ -1,0 +1,15 @@
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.csprojAssemblyReference.cache
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.csproj.CoreCompileInputs.cache
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\bin\Release\netcoreapp2.1\WebTaskApplication.deps.json
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\bin\Release\netcoreapp2.1\WebTaskApplication.runtimeconfig.json
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\bin\Release\netcoreapp2.1\WebTaskApplication.runtimeconfig.dev.json
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\bin\Release\netcoreapp2.1\WebTaskApplication.dll
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\bin\Release\netcoreapp2.1\WebTaskApplication.pdb
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.RazorAssemblyInfo.cache
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.RazorAssemblyInfo.cs
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.AssemblyInfoInputs.cache
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.AssemblyInfo.cs
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.RazorTargetAssemblyInfo.cache
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.dll
+D:\Users\risyandi\source\repos\WebTaskApplication\WebTaskApplication\obj\Release\netcoreapp2.1\WebTaskApplication.pdb

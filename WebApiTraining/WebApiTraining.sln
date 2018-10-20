@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTraining", "WebApiTraining\WebApiTraining.csproj", "{A8D768E0-ED3C-4EE9-8A03-AB3461A4B5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D768E0-ED3C-4EE9-8A03-AB3461A4B5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D768E0-ED3C-4EE9-8A03-AB3461A4B5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D768E0-ED3C-4EE9-8A03-AB3461A4B5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D768E0-ED3C-4EE9-8A03-AB3461A4B5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD78E90-E123-4711-A696-C5C3D070D39D}
+	EndGlobalSection
+EndGlobal

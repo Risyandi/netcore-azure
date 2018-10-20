@@ -1,0 +1,11 @@
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\AppsXam.csprojAssemblyReference.cache
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\bin\Debug\netstandard2.0\AppsXam.deps.json
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\bin\Debug\netstandard2.0\AppsXam.dll
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\bin\Debug\netstandard2.0\AppsXam.pdb
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\AppsXam.csproj.CoreCompileInputs.cache
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\AppsXam.AssemblyInfoInputs.cache
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\AppsXam.AssemblyInfo.cs
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\AppsXam.dll
+D:\Users\risyandi\source\repos\AppsXam\AppsXam\AppsXam\obj\Debug\netstandard2.0\AppsXam.pdb
